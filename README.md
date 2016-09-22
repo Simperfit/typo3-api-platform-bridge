@@ -1,0 +1,1 @@
+# typo3-api-platform-bridge
